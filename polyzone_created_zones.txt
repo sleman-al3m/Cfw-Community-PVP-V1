@@ -1,0 +1,70 @@
+--Name: saeed | 2023-04-29T11:06:14Z
+BoxZone:Create(vector3(35.31, -1117.0, 29.27), 1.4, 1, {
+  name="saeed",
+  heading=330,
+  --debugPoly=true,
+  minZ=25.47,
+  maxZ=29.47
+})
+
+--Name: f | 2023-04-29T22:31:46Z
+BoxZone:Create(vector3(679.01, 1287.07, 360.47), 1.0, 2.0, {
+  name="f",
+  heading=281,
+  --debugPoly=true,
+  minZ=357.47,
+  maxZ=361.47
+})
+
+--Name: afd | 2023-04-30T00:05:57Z
+BoxZone:Create(vector3(-1233.16, -2077.52, 14.06), 1.8, 1, {
+  name="afd",
+  heading=65,
+  --debugPoly=true,
+  minZ=11.06,
+  maxZ=15.06
+})
+
+--Name: 3 | 2023-04-30T00:31:41Z
+BoxZone:Create(vector3(1005.7, -2483.49, 28.46), 2.0, 1, {
+  name="3",
+  heading=84,
+  --debugPoly=true,
+  minZ=25.06,
+  maxZ=29.06
+})
+
+--Name: f | 2023-04-30T01:15:45Z
+BoxZone:Create(vector3(-1359.53, -760.7, 22.3), 0.8, 1, {
+  name="f",
+  heading=75,
+  --debugPoly=true,
+  minZ=19.3,
+  maxZ=23.3
+})
+
+--Name: ta2 | 2023-04-30T01:17:14Z
+BoxZone:Create(vector3(1444.77, 6334.94, 23.93), 1.0, 1, {
+  name="ta2",
+  heading=211,
+  --debugPoly=true,
+  minZ=20.73,
+  maxZ=24.73
+})
+
+--Name: asd | 2023-07-24T01:04:28Z
+BoxZone:Create(vector3(-651.64, -2396.33, 14.12), 41.4, 38.9, {
+  name="asd",
+  heading=330,
+  --debugPoly=true,
+  minZ=13.12,
+  maxZ=17.12
+})
+
+--Name: 1 | 2024-06-23T14:12:19Z
+BoxZone:Create(vector3(306.63, -590.45, 43.28), 1, 1, {
+  name="1",
+  heading=0,
+  --debugPoly=true
+})
+

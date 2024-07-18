@@ -1,0 +1,23 @@
+# You CAN edit the following:
+endpoint_add_tcp "0.0.0.0:30120"
+endpoint_add_udp "0.0.0.0:30120"
+
+## You MAY edit the following:
+sets tags "1v1, PVP, Fights, Fight, "
+
+sv_hostname "Leader Fights"
+
+sets sv_projectName "Leader Fights"
+
+sets sv_projectDesc "1v1, PVP, Fights, Fight, CFW"
+
+sets discord "https://discord.gg/ZQKGa6B7"
+
+sets Owner " LC〡villain"
+
+sets Owner "LC〡Abo Naser"
+
+sets locale "ar-SA" 
+
+loaYOURPASSWORD"
+rco
